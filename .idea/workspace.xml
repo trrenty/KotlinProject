@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="70435e08-2859-4d3c-9204-8bbcd939b798" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Class" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aO56nJg7ecpsISsOr5G5PF7HTH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager" selected="Kotlin.client.ClientKt">
+    <configuration name="client.ClientKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="GameReviewKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="client.ClientKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="server.ServerKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="GameReviewKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="server.ServerKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.client.ClientKt" />
+        <item itemvalue="Kotlin.server.ServerKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70435e08-2859-4d3c-9204-8bbcd939b798" name="Default Changelist" comment="" />
+      <created>1586593626782</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586593626782</updated>
+      <workItem from="1586593631901" duration="4171000" />
+      <workItem from="1587141131482" duration="785000" />
+      <workItem from="1587148970116" duration="599000" />
+      <workItem from="1587658616431" duration="120000" />
+      <workItem from="1587757908279" duration="6581000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="161" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586594883357">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="414" y="161" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1360.728@0.0.1360.728" timestamp="1586594883357" />
+    <state x="468" y="61" key="#com.intellij.ide.util.MemberChooser" timestamp="1587763387422">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="468" y="61" key="#com.intellij.ide.util.MemberChooser/0.0.1360.728@0.0.1360.728" timestamp="1587763387422" />
+    <state width="1300" height="160" key="GridCell.Tab.0.bottom" timestamp="1587764519003">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1300" height="160" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1587764519003" />
+    <state width="1300" height="160" key="GridCell.Tab.0.center" timestamp="1587764519003">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1300" height="160" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1587764519003" />
+    <state width="1300" height="160" key="GridCell.Tab.0.left" timestamp="1587764519003">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1300" height="160" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1587764519003" />
+    <state width="1300" height="160" key="GridCell.Tab.0.right" timestamp="1587764519003">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1300" height="160" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1587764519003" />
+    <state x="55" y="56" key="new project wizard" timestamp="1587658793698">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="55" y="56" key="new project wizard/0.0.1360.728@0.0.1360.728" timestamp="1587658793698" />
+  </component>
+</project>
